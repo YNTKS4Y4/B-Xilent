@@ -1,3 +1,6 @@
+# B-Xilent
+
+
 # CARA MENJALANKAN TOOLS :
 
 
@@ -41,9 +44,10 @@ pip install rich
 git clone https://github.com/YNTKS4Y4/B-Xilent
 
 
-
 cd B-Xilent
 
+
+git pull
 
 
 python run.py
@@ -60,6 +64,3 @@ git pull
 
 python run.py
 
-
-
-# B-Xilent
